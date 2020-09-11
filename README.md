@@ -2,4 +2,4 @@
 
 ### Hello 👋
 
-I'm [Dylan Meskis](https://dylanmeskis.com), a software engineer at [Homebot](https://homebot.ai/). We're building a tool to help people build wealth with their home.
+I'm [Dylan Meskis](https://dylanmeskis.com), a software engineer at [Homebot](https://homebot.ai/).
